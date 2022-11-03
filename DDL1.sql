@@ -1,5 +1,5 @@
-create database exam;
-use exam;
+create database CTS;
+use CTS;
 create Table t_agent(
 agent_id Varchar(25) primary key,
 agent_name Varchar(100),
